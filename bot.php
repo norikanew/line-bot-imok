@@ -19,7 +19,7 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
 			$messages = [
 				'type' => 'text',
-				'text' => $text
+				'text' => '\u0e40\u0e2b\u0e21\u0e35\u0e22\u0e27\u0e27\u0e27\u0e27\u0e27'
 			];
 
 			// Make a POST Request to Messaging API to reply to sender
